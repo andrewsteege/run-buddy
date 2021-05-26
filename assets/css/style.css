@@ -33,7 +33,7 @@ header h1 {
     margin: 0;
     display: inline;
 }
-/*Header Style End*/
+
 /*Hero Style Starts*/
 .hero {
     background-image: url("../images/hero-bg.jpg");
@@ -85,7 +85,6 @@ header h1 {
     padding: 10px 20px;
     font-size: 16px;
 }
-/*Hero Style Ends*/
 
 body {
     color: #39a6b2;
@@ -268,4 +267,14 @@ footer a {
 section{
     padding: 60px;
 }
-/*Footer Style Ends*/
+
+/*Privacy Policy Page*/
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}

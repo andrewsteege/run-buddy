@@ -1,2 +1,14 @@
-# run-buddy
-Run Buddy is a webpage helping you connect with a workout trainer based on the information you enter, and the physical requirements you need.
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
